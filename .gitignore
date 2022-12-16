@@ -43,3 +43,5 @@
 /obj/Debug/net7.0/ThumbnailGenerator.pdb
 /bin/Debug/net7.0/ThumbnailGenerator.runtimeconfig.json
 /ThumbnailGenerator.sln
+/.vs
+/.idea/.idea.ThumbnailGenerator/.idea
